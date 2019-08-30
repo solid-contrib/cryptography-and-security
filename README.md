@@ -1,4 +1,4 @@
-# Solid Cryptography (Signing and Encryption) Panel
+# Cryptography and Security
 
 [![Join the chat at https://gitter.im/solid/cryptography-panel](https://badges.gitter.im/solid/cryptography-panel.svg)](https://gitter.im/solid/cryptography-panel?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
